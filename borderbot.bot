@@ -1,0 +1,18 @@
+{
+    "name": "borderbot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "9eb21760-bb41-11e8-94cb-5bf351f1d40b",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "secretKey": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "D:\\test\\test\\test\\borderbot\\borderbot.bot"
+}

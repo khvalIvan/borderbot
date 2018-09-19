@@ -1,0 +1,25 @@
+{
+    "points": [
+        {
+            "name": "Берестовица",
+            "country": "Польша",
+            "outImageUrl": "http://cam.gpk.gov.by/berestovica-gtk.jpg",
+            "inImageUrl": "http://www.grt.customs.gov.by/webcam/gr05.jpg",
+            "id": "berestovitsa"
+        },
+        {
+            "name": "Брест",
+            "country": "Польша",
+            "inImageUrl": "",
+            "outImageUrl": "",
+            "id": "brest"
+        },
+        {
+            "name": "Каменный Лог",
+            "country": "Литва",
+            "inImageUrl": "http://gpk.gov.by/kamlog1.jpg",
+            "outImageUrl": "",
+            "id": "stone_log"
+        }
+    ]
+}
