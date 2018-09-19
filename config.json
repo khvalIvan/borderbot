@@ -1,18 +1,25 @@
 {
     "points": [
         {
-            "name": "Берестовица",
-            "country": "Польша",
-            "outImageUrl": "http://cam.gpk.gov.by/berestovica-gtk.jpg",
-            "inImageUrl": "http://www.grt.customs.gov.by/webcam/gr05.jpg",
-            "id": "berestovitsa"
+            "name": "Григоровщина",
+            "country": "Латвия",
+            "inImageUrl": "",
+            "outImageUrl": "http://www.vitebsk.customs.gov.by/webcam/vt01.jpg",
+            "id": "grigorov"
         },
         {
-            "name": "Брест",
-            "country": "Польша",
+            "name": "Урбаны",
+            "country": "Латвия",
             "inImageUrl": "",
             "outImageUrl": "",
-            "id": "brest"
+            "id": "urbana"
+        },
+        {
+            "name": "Котловка",
+            "country": "Литва",
+            "inImageUrl": "http://www.pkpd.lt/project/modules/border/assets/image.php?video=lavoriskes",
+            "outImageUrl": "",
+            "id": "kotlovka"
         },
         {
             "name": "Каменный Лог",
@@ -20,6 +27,153 @@
             "inImageUrl": "http://gpk.gov.by/kamlog1.jpg",
             "outImageUrl": "",
             "id": "stone_log"
+        },
+        {
+            "name": "Лоша",
+            "country": "Литва",
+            "inImageUrl": "",
+            "outImageUrl": "http://gpk.gov.by/kamlog2.jpg",
+            "id": "losha"
+        },
+        {
+            "name": "Бенякони",
+            "country": "Литва",
+            "inImageUrl": "http://www.pkpd.lt/project/modules/border/assets/image.php?video=salcininkai",
+            "outImageUrl": "http://gpk.gov.by/beniakoni1.jpg",
+            "id": "benekainys"
+        },
+        {
+            "name": "Привалка",
+            "country": "Литва",
+            "inImageUrl": "http://www.pkpd.lt/project/modules/border/assets/image.php?video=raigardas",
+            "outImageUrl": "http://www.grt.customs.gov.by/webcam/gr03.jpg",
+            "id": "privalka"
+        },
+        {
+            "name": "Брест",
+            "country": "Польша",
+            "inImageUrl": "http://www.brest.customs.gov.by/webcam/brst112_c1.jpg",
+            "outImageUrl": "",
+            "id": "brest"
+        },
+        {
+            "name": "Брузги",
+            "country": "Польша",
+            "inImageUrl": "",
+            "outImageUrl": "http://www.grt.customs.gov.by/webcam/gr01.jpg",
+            "id": "bruzgi"
+        },
+        {
+            "name": "Берестовица",
+            "country": "Польша",
+            "outImageUrl": "http://cam.gpk.gov.by/berestovica-gtk.jpg",
+            "inImageUrl": "http://www.grt.customs.gov.by/webcam/gr05.jpg",
+            "id": "berestovitsa"
+        },
+        {
+            "name": "Песчатка",
+            "country": "Польша",
+            "inImageUrl": "",
+            "outImageUrl": "http://www.brest.customs.gov.by/webcam/brst101_1_c1.jpg",
+            "id": "peschatka"
+        },
+        {
+            "name": "Козловичи",
+            "country": "Польша",
+            "inImageUrl": "",
+            "outImageUrl": "",
+            "id": "kozlovichi"
+        },
+        {
+            "name": "Домачево",
+            "country": "Польша",
+            "inImageUrl": "",
+            "outImageUrl": "http://www.brest.customs.gov.by/webcam/brst140_1.jpg",
+            "id": "domachevo"
+        },
+        {
+            "name": "Томашовка",
+            "country": "Украина",
+            "inImageUrl": "",
+            "outImageUrl": "",
+            "id": "tomashovka"
+        },
+        {
+            "name": "Олтуш",
+            "country": "Украина",
+            "inImageUrl": "",
+            "outImageUrl": "",
+            "id": "oltush"
+        },
+        {
+            "name": "Мокраны",
+            "country": "Украина",
+            "inImageUrl": "http://www.brest.customs.gov.by/webcam/brst116_1.jpg",
+            "outImageUrl": "",
+            "id": "mokrany"
+        },
+        {
+            "name": "Мохро",
+            "country": "Украина",
+            "inImageUrl": "",
+            "outImageUrl": "",
+            "id": "mohr"
+        },
+        {
+            "name": "Невель",
+            "country": "Украина",
+            "inImageUrl": "",
+            "outImageUrl": "",
+            "id": "nevel"
+        },
+        {
+            "name": "Верхний Теребежов",
+            "country": "Украина",
+            "inImageUrl": "",
+            "outImageUrl": "",
+            "id": "up_terebezhov"
+        },
+        {
+            "name": "Глушкевичи",
+            "country": "Украина",
+            "inImageUrl": "",
+            "outImageUrl": "",
+            "id": "glushkevichi"
+        },
+        {
+            "name": "Новая Рудня",
+            "country": "Украина",
+            "inImageUrl": "",
+            "outImageUrl": "",
+            "id": "new_rudnia"
+        },
+        {
+            "name": "Александровка",
+            "country": "Украина",
+            "inImageUrl": "",
+            "outImageUrl": "",
+            "id": "oleksandrivka"
+        },
+        {
+            "name": "Комарин",
+            "country": "Украина",
+            "inImageUrl": "",
+            "outImageUrl": "",
+            "id": "komarin"
+        },
+        {
+            "name": "Новая Гута",
+            "country": "Украина",
+            "inImageUrl": "",
+            "outImageUrl": "http://www.gomel.customs.gov.by/webcam/gml1.jpg",
+            "id": "nova_huta"
+        },
+        {
+            "name": "Веселовка",
+            "country": "Украина",
+            "inImageUrl": "",
+            "outImageUrl": "",
+            "id": "veselivka"
         }
     ]
 }

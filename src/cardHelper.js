@@ -72,6 +72,8 @@ function getImageColumnSet(options) {
             text: 'Камера въезд:',
             imageUrl: options.inImageUrl
         }));
+    } else {
+        addEmptyColumn = true;
     }
     if (addEmptyColumn) {
         columnSet.columns.push({
@@ -83,15 +85,10 @@ function getImageColumnSet(options) {
 }
 
 function getImageColumn(options) {
-    // TODO: rewrite to use getAdaptiveCardColumn functions
-    let column = {
-        type: 'Column',
-        items: []
-    }
-    column.items.push({
-        type: 'TextBlock',
+    let column = getAdaptiveCardColumn({
         text: options.text,
-        weight: 'bolder'
+        weight: 'bolder',
+        width: 'stretch'
     });
     column.items.push({
         type: 'Image',
@@ -116,7 +113,6 @@ function getAdaptiveCardColumn(options) {
         type: 'Column',
         width: options.width || 'auto',
         items: [],
-        size: 'large',
         horizontalAlignment: options.horizontalAlignment || 'left'
     }
     column.items.push(getAdaptiveCardTextBlock({
